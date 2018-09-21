@@ -10,8 +10,8 @@ This code is for board versions **1.***
    - Windows:  ```<Arduino Installation>/hardware/arduino/avr/bootloaders/```
    - Mac OS X: ```/Applications/Arduino.app/Contents/java/hardware/arduino/avr/bootloaders/```
 3. Copy the folder ```mega32``` to 
-   - Windows:  ```<Arduino Installation>/hardware/arduino/avr/variants`
-   - Mac OS X: ```/Applications/Arduino.app/Contents/java/hardware/arduino/avr/variants`
+   - Windows:  ```<Arduino Installation>/hardware/arduino/avr/variants```
+   - Mac OS X: ```/Applications/Arduino.app/Contents/java/hardware/arduino/avr/variants```
 4. Append the following text to
    - Windows:  ```<Arduino Installation>/hardware/arduino/avr/boards.txt```
    - Mac OS X: ```/Applications/Arduino.app/Contents/java/hardware/arduino/avr/boards.txt```
